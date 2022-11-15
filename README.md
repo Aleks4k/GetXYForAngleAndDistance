@@ -4,4 +4,4 @@ Simple stock for PAWN (SAMP) to get X and Y coordinates on specific angle and di
 new Float:x,y;<br>
 getXYForAngleAndDistance(playerid, x, y, 20.0, 90.0);<br>
 <br>
-### This function can be useful in detecting if player using Aimbot.
+### This function can be useful at detecting if player using Aimbot.
